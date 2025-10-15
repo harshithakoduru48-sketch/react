@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/job-form1/static/css/main.4828db17.css",
+    "main.js": "/job-form1/static/js/main.0ca3786d.js",
+    "index.html": "/job-form1/index.html",
+    "main.4828db17.css.map": "/job-form1/static/css/main.4828db17.css.map",
+    "main.0ca3786d.js.map": "/job-form1/static/js/main.0ca3786d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4828db17.css",
+    "static/js/main.0ca3786d.js"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "job-form",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://harshithakoduru48-sketch.github.io/job-form",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not dead",
+    "> 0.2%"
+  ],
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
